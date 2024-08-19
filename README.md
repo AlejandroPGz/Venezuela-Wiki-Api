@@ -1,4 +1,4 @@
-# Venezuela-Wiki-Api
+# Venezuela-Api
 
 This api provides you information about all states from Venezuela, it includes capital, wheather, location etc.
 <br>
